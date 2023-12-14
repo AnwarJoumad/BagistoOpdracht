@@ -26,7 +26,7 @@ return [
         ],
 
         'bliss' => [
-            'views_path'  => 'resources/themes/bliss/views',
+            'views_path'  => 'themes/bliss/views',
             'assets_path' => 'public/themes/bliss/build/assets',
             'name'        => 'Bliss',
             'parent'      => 'default',
